@@ -2,3 +2,11 @@
 	height: 375px;
   width: auto;
 }
+
+ul {
+  font-size: 18px;
+}
+
+.skills-list {
+  margin-right: 45px;
+}
